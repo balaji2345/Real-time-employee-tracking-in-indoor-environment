@@ -1,0 +1,10 @@
+flask
+flask-socketio
+opencv-python-headless
+supervision
+werkzeug
+numpy
+gevent
+gevent-websocket
+eventlet
+ultralytics
