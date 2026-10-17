@@ -35,8 +35,7 @@ A production-grade real-time video analytics system that tracks Staff and Custom
 | F1 Score | 92.63% |
 | Precision | 93.05% |
 | Recall | 92.21% |
-| Training Epochs | 50 |
-| Training Time | ~2.38 hours |
+| Training Epochs | 25 |
 
 ## 🚀 Installation
 
