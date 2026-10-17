@@ -5,7 +5,7 @@ def main():
 
     results = model.train(
         data='dataset_merged_v2/data.yaml',
-        epochs=50,
+        epochs=25,
         imgsz=1200,
         batch=8,
         device=0,
