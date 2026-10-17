@@ -26,7 +26,7 @@ A production-grade real-time video analytics system that tracks Staff and Custom
 | Backend | Python, Flask, Flask-SocketIO |
 | Frontend | HTML, CSS, JavaScript, Chart.js |
 | Deployment | AWS EC2 (Amazon Linux) |
-| Dataset | ~300–400 images via Roboflow |
+| Dataset | ~1200 images via Roboflow |
 
 ## 📊 Model Performance
 | Metric | Value |
